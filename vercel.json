@@ -10,6 +10,10 @@
             "dest": "public/burger/"
         },
         {
+            "src": "/images/(.*)",
+            "dest": "public/images/"
+        },
+        {
             "src": "/css/(.*)",
             "dest": "public/css/"
         },

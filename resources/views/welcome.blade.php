@@ -5,7 +5,7 @@
 	<meta http-equiv="content-type" content="text/html; charset=utf-8">
 	<meta http-equiv="x-ua-compatible" content="IE=edge">
 	<meta name="author" content="SemiColonWeb">
-	<meta name="description" content="Create Burger &amp; Food Delivery with Canvas Template. Get Canvas to build powerful websites easily with the Highly Customizable &amp; Best Selling Bootstrap Template, today.">
+	<meta name="description" content="Create Burger &amp; Food Delivery UI/UC design for @theburgerplace.">
 
 	<!-- Font Imports -->
 	<link rel="preconnect" href="https://fonts.googleapis.com">
@@ -30,7 +30,7 @@
 
 	<!-- Burger Document Title
 	============================================= -->
-	<title>Burger | Canvas</title>
+	<title>Burger Place</title>
 
 </head>
 
@@ -47,9 +47,9 @@
 			<div class="widget">
 
 				<h4 class="fw-bold">Download App</h4>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-				<a href="#"><img src="demos/articles/images/appstore.png" alt="App Link" height="60"></a>
-				<a href="#"><img src="demos/articles/images/googleplay.png" alt="App Link" class="mt-2" height="60"></a>
+				<p>Tasty. Sizzling. Fresh Beef Burgers to start aand end your day.</p>
+				<a href="#"><img src="burger/images/appstore.png" alt="App Link" height="60"></a>
+				<a href="#"><img src="burger/images/googleplay.png" alt="App Link" class="mt-2" height="60"></a>
 
 			</div>
 
@@ -115,7 +115,7 @@
 								<li class="menu-item"><a class="menu-link" href="#" data-href="#story"><div>Story</div></a></li>
 								<li class="menu-item"><a class="menu-link" href="#" data-href="#menu"><div>Menu</div></a></li>
 								<li class="menu-item"><a class="menu-link" href="#" data-href="#contact" data-offset="20"><div>Contact</div></a></li>
-								<li class="noborder menu-item"><a class="menu-link" href="tel:+112223333"><div>+11 222 3333</div></a></li>
+								<li class="noborder menu-item"><a class="menu-link" href="tel:+112223333"><div>+234 XXX XXXXX</div></a></li>
 							</ul>
 
 						</nav><!-- #primary-menu end -->
@@ -139,7 +139,7 @@
 									<div class="before-heading font-secondary color">Delight your Best</div>
 									<h1 class="font-border">Burgerrrr!</h1>
 								</div>
-								<p class="lead text-white-50" data-animate="fadeInUp" data-delay="100">Competently revolutionize real-time deliverables via quality vortals. Compellingly create worldwide functionalities without robust interfaces.</p>
+								<p class="lead text-white-50" data-animate="fadeInUp" data-delay="100">Indulge in our gourmet burgers, crafted with fresh ingredients and passion. Every bite delivers a delightful burst of flavor and satisfaction.s</p>
 								<a data-scrollto="#menu" data-easing="easeInOutExpo" data-speed="1250" class="button button-large button-rounded px-4 button-border button-light button-white fw-semibold" data-animate="fadeInUp" data-delay="200">See Menu</a>
 								<a href="tel:+112223333" class="button button-large button-rounded px-4 button-reveal d-inline-flex tright fw-semibold" data-animate="fadeInUp" data-delay="300"><i class="bi-arrow-right"></i><span>Book a Table</span></a>
 							</div>
@@ -163,14 +163,11 @@
 							<div class="text-center mb-5 mx-auto" style="max-width: 700px">
 								<div class="before-heading font-primary color">Our Story</div>
 								<h1 class="font-secondary display-4 fw-bold">Burgers! You won't Find Anywhere Else</h1>
-								<p class="lead">Holisticly initiate distinctive growth strategies without efficient scenarios. Enthusiastically restore effective infomediaries through one-to-one applications. Assertively build cross-platform core competencies through resource-leveling process improvements. Objectively actualize intermandated strategic theme areas and real-time e-services.</p>
-
-								<a href="https://www.freepik.com" class="d-block op-05">Designed by Freepik</a>
-
+								<p class="lead">Discover our exclusive range of burgers, expertly crafted to deliver unmatched taste and quality. Experience our commitment to excellence with every bite.</p>
 								<div class="card mx-auto my-5 slide-img border-0" style="max-width: 450px" data-animate="img-to-left">
-									<img src="burger/images/others/chef.jpg" class="card-img" alt="...">
+									<img src="burger/images/others/chef.jpeg" class="card-img" alt="...">
 									<div class="card-img-overlay dotted-bg dotted-bg-light d-flex align-items-center justify-content-center">
-										<a href="https://www.youtube.com/watch?v=P3Huse9K6Xs" data-lightbox="iframe" class="stretched-link display-3 text-white image_fade"><i class="fa-solid fa-circle-play"></i></a>
+										<a href="https://youtu.be/s1TSwHxH5iY" data-lightbox="iframe" class="stretched-link display-3 text-white image_fade"><i class="fa-solid fa-circle-play"></i></a>
 									</div>
 								</div>
 
@@ -186,7 +183,8 @@
 								<div class="cat-img"><img  data-animate="fadeInRight" src="burger/images/cat/1.png" alt="Category Image"></div>
 								<div class="cat-text">
 									<h2 class="fw-bold ls-1 text-uppercase mb-5">Burgers</h2>
-									<p class="mb-5">Credibly exploit one-to-one markets before enabled innovation. Synergistically incubate integrated communities whereas highly efficient alignments.</p>
+									<p class="mb-5">Dive into Our Burger Haven: Fresh, Flavorful Creations Await"
+                                    "Indulge in our gourmet burgers, crafted with the finest ingredients. Experience a taste like no other in every bite.</p>
 									<a href="#" data-scrollto="#menu" data-easing="easeInOutExpo" data-speed="1250" class="button button-rounded px-4 button-border button-light button-white fw-semibold ms-0">View All</a>
 								</div>
 							</div>
@@ -195,7 +193,8 @@
 								<div class="cat-img"><img  data-animate="fadeInRight" src="burger/images/cat/3.png" alt="Category Image"></div>
 								<div class="cat-text">
 									<h2 class="fw-bold ls-1 text-uppercase mb-5">Snacks</h2>
-									<p class="mb-5">Authoritatively envisioneer 24/365 benefits via bricks-and-clicks outsourcing. Phosfluorescently redefine real-time relationships with interoperable sources. Efficiently.</p>
+									<p class="mb-5">Crave-Worthy Snacks: Perfectly Crafted for Every Taste"
+                                    "Discover our delicious snacks, designed to satisfy your cravings. Each bite offers a perfect balance of flavor and crunch.</p>
 									<a href="#" data-scrollto="#menu-snacks" data-easing="easeInOutExpo" data-speed="1250" class="button button-rounded px-4 button-border button-light button-white fw-semibold ms-0">View All</a>
 								</div>
 							</div>
@@ -204,7 +203,8 @@
 								<div class="cat-img"><img  data-animate="fadeInRight" src="burger/images/cat/4.png" alt="Category Image"></div>
 								<div class="cat-text">
 									<h2 class="fw-bold ls-1 text-uppercase mb-5">Beverages</h2>
-									<p class="mb-5">Dramatically promote collaborative networks via client-based quality vectors. Appropriately transform seamless applications after leading-edge models.</p>
+									<p class="mb-5">Refresh with Our Beverage Selection: Flavorful and Invigorating"
+                                    "Enjoy our range of beverages, from revitalizing drinks to bold flavors. Perfectly paired with our food for a complete experience.</p>
 									<a href="#" data-scrollto="#menu-beverages" data-easing="easeInOutExpo" data-speed="1250" class="button button-rounded px-4 button-border button-light button-white fw-semibold ms-0">View All</a>
 								</div>
 							</div>
@@ -229,7 +229,7 @@
 									<div class="feature-box px-0" data-animate="fadeInLeft">
 										<div class="fbox-content">
 											<h3 class="color"><i class="fa-solid fa-check-circle"></i> Burger Buns</h3>
-											<p>Stretch your Website to the Full Width or make it boxed to surprise your visitors.</p>
+											<p>Enjoy our top-quality burger buns, baked to perfection with a soft, fluffy texture and just the right amount of crisp.</p>
 										</div>
 									</div>
 
@@ -237,7 +237,7 @@
 									100">
 										<div class="fbox-content">
 											<h3 class="color"><i class="fa-solid fa-check-circle"></i> Fresh Vegetables</h3>
-											<p>We have covered each &amp; everything in our Docs including Videos &amp; Screenshots.</p>
+											<p>Our fresh vegetables are hand-selected for the highest quality, adding crisp texture and vibrant flavors to your meal.</p>
 										</div>
 									</div>
 
@@ -245,7 +245,7 @@
 									200">
 										<div class="fbox-content">
 											<h3 class="color"><i class="fa-solid fa-check-circle"></i> Ground Beef</h3>
-											<p>Display your Content attractively using Parallax Sections with HTML5 Videos.</p>
+											<p>We use the finest ground beef, seasoned and cooked to deliver rich, juicy flavor in every bite of our burgers.</p>
 										</div>
 									</div>
 
@@ -260,7 +260,7 @@
 									<div class="feature-box ps-5 pe-0" data-animate="fadeInRight">
 										<div class="fbox-content">
 											<h3 class="color"><i class="fa-solid fa-check-circle"></i> Fresh Meat</h3>
-											<p>Canvas provides support for Native HTML5 Videos that can be added to a Background.</p>
+											<p>Our fresh meat is sourced for quality and flavor, ensuring each bite is tender and juicy, perfect for your burger creations</p>
 										</div>
 									</div>
 
@@ -268,7 +268,7 @@
 									100">
 										<div class="fbox-content">
 											<h3 class="color"><i class="fa-solid fa-check-circle"></i> Gluten-Free Buns</h3>
-											<p>Complete control on each &amp; every element that provides endless customization.</p>
+											<p>Enjoy our gluten-free buns that offer the same soft texture and delicious taste, catering to all dietary needs without compromise.</p>
 										</div>
 									</div>
 
@@ -276,7 +276,7 @@
 									200">
 										<div class="fbox-content">
 											<h3 class="color"><i class="fa-solid fa-check-circle"></i> Low Fat</h3>
-											<p>Change your Website's Primary Scheme instantly by simply adding the dark class.</p>
+											<p>Our low-fat options are crafted to be tasty and satisfying, letting you enjoy your meal without the extra calories.</p>
 										</div>
 									</div>
 
@@ -306,49 +306,49 @@
 									<div class="clear"></div>
 
 									<div class="price-menu-warp img-hover-block" data-img="burger/images/menu-items/burgers/mini.jpg">
-										<div class="price-header">
-											<div class="price-name color">Mini Burger</div>
-											<div class="price-dots">
-												<span class="separator-dots"></span>
-											</div>
-											<div class="price-price">$9.00</div>
-										</div>
-										<p class="price-desc">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt quos harum officia eaque nobis ut.</p>
-									</div>
+    <div class="price-header">
+        <div class="price-name color">Mini Burger</div>
+        <div class="price-dots">
+            <span class="separator-dots"></span>
+        </div>
+        <div class="price-price">N5,500</div>
+    </div>
+    <p class="price-desc">A delicious, compact burger packed with flavor and quality ingredients, perfect for a quick bite.</p>
+</div>
 
-									<div class="price-menu-warp img-hover-block" data-img="burger/images/menu-items/burgers/double.jpg">
-										<div class="price-header">
-											<div class="price-name color">Double Size Burger</div>
-											<div class="price-dots">
-												<span class="separator-dots"></span>
-											</div>
-											<div class="price-price">$13.00</div>
-										</div>
-										<p class="price-desc">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt quos harum officia eaque nobis ut.</p>
-									</div>
+<div class="price-menu-warp img-hover-block" data-img="burger/images/menu-items/burgers/double.jpg">
+    <div class="price-header">
+        <div class="price-name color">Double Size Burger</div>
+        <div class="price-dots">
+            <span class="separator-dots"></span>
+        </div>
+        <div class="price-price">N6,800</div>
+    </div>
+    <p class="price-desc">Satisfy your hunger with our hearty double size burger, featuring double the meat and all the fixings.</p>
+</div>
 
-									<div class="price-menu-warp img-hover-block" data-img="burger/images/menu-items/burgers/turkish.jpg">
-										<div class="price-header">
-											<div class="price-name color">Turkish Burger</div>
-											<div class="price-dots">
-												<span class="separator-dots"></span>
-											</div>
-											<div class="price-price">$15.00</div>
-										</div>
-										<p class="price-desc">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt quos harum officia eaque nobis ut.</p>
-									</div>
+<div class="price-menu-warp img-hover-block" data-img="burger/images/menu-items/burgers/turkish.jpg">
+    <div class="price-header">
+        <div class="price-name color">Turkish Burger</div>
+        <div class="price-dots">
+            <span class="separator-dots"></span>
+        </div>
+        <div class="price-price">N7,500</div>
+    </div>
+    <p class="price-desc">Experience a unique twist with our Turkish Burger, featuring exotic spices and premium ingredients.</p>
+</div>
 
-									<div class="price-menu-warp img-hover-block" data-img="burger/images/menu-items/burgers/veggie.jpg">
-										<div class="price-header">
-											<div class="price-name color">Garden Veg Burger</div>
-											<div class="price-dots">
-												<span class="separator-dots"></span>
-											</div>
-											<div class="price-price">$11.00</div>
-										</div>
-										<p class="price-desc">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt quos harum officia eaque nobis ut.</p>
-									</div>
-								</div>
+<div class="price-menu-warp img-hover-block" data-img="burger/images/menu-items/burgers/veggie.jpg">
+    <div class="price-header">
+        <div class="price-name color">Garden Veg Burger</div>
+        <div class="price-dots">
+            <span class="separator-dots"></span>
+        </div>
+        <div class="price-price">N3,500</div>
+    </div>
+    <p class="price-desc">Enjoy a fresh, flavorful garden veg burger made with a mix of crisp vegetables and savory seasonings.</p>
+</div>
+
 
 								<div class="col-md-6 text-center order-1 order-md-2" data-animate="zoomIn faster">
 									<img src="burger/images/others/burger.png" alt="Image" class="parallax price-img mb-5 mb-md-0" data-top-bottom="transform:translateY(-30px)" data-bottom-top="transform:translateY(140px)">
@@ -378,51 +378,49 @@
 									<div class="clear"></div>
 
 									<div class="price-menu-warp img-hover-block" data-img="burger/images/menu-items/snacks/hot-dog.jpg">
-										<div class="price-header">
-											<div class="price-name color">Hot Dog</div>
-											<div class="price-dots">
-												<span class="separator-dots"></span>
-											</div>
-											<div class="price-price">$9.00</div>
-										</div>
-										<p class="price-desc">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt quos harum officia eaque nobis ut.</p>
-									</div>
+    <div class="price-header">
+        <div class="price-name color">Hot Dog</div>
+        <div class="price-dots">
+            <span class="separator-dots"></span>
+        </div>
+        <div class="price-price">N3,800</div>
+    </div>
+    <p class="price-desc">A classic hot dog with a juicy sausage and savory toppings, perfect for a quick and satisfying snack.</p>
+</div>
 
-									<div class="price-menu-warp img-hover-block" data-img="burger/images/menu-items/snacks/chicken-wrap.jpeg">
-										<div class="price-header">
-											<div class="price-name color">Chicken Wrap</div>
-											<div class="price-dots">
-												<span class="separator-dots"></span>
-											</div>
-											<div class="price-price">$13.00</div>
-										</div>
-										<p class="price-desc">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt quos harum officia eaque nobis ut.</p>
-									</div>
+<div class="price-menu-warp img-hover-block" data-img="burger/images/menu-items/snacks/chicken-wrap.jpeg">
+    <div class="price-header">
+        <div class="price-name color">Chicken Wrap</div>
+        <div class="price-dots">
+            <span class="separator-dots"></span>
+        </div>
+        <div class="price-price">$4,800</div>
+    </div>
+    <p class="price-desc">Enjoy our flavorful chicken wrap, filled with tender chicken and fresh veggies, all wrapped in a soft tortilla.</p>
+</div>
 
-									<div class="price-menu-warp img-hover-block" data-img="burger/images/menu-items/snacks/rice-bowl.jpg">
-										<div class="price-header">
-											<div class="price-name color">Rice Bowl</div>
-											<div class="price-dots">
-												<span class="separator-dots"></span>
-											</div>
-											<div class="price-price">$15.00</div>
-										</div>
-										<p class="price-desc">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt quos harum officia eaque nobis ut.</p>
-									</div>
+<div class="price-menu-warp img-hover-block" data-img="burger/images/menu-items/snacks/rice-bowl.jpg">
+    <div class="price-header">
+        <div class="price-name color">Rice Bowl</div>
+        <div class="price-dots">
+            <span class="separator-dots"></span>
+        </div>
+        <div class="price-price">$2,100</div>
+    </div>
+    <p class="price-desc">Savor our rice bowl, featuring perfectly cooked rice topped with a medley of delicious ingredients and sauces.</p>
+</div>
 
-									<div class="price-menu-warp img-hover-block" data-img="burger/images/menu-items/snacks/salad.jpg">
-										<div class="price-header">
-											<div class="price-name color">House Salad</div>
-											<div class="price-dots">
-												<span class="separator-dots"></span>
-											</div>
-											<div class="price-price">$11.00</div>
-										</div>
-										<p class="price-desc">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt quos harum officia eaque nobis ut.</p>
-									</div>
-								</div>
-							</div>
-						</div>
+<div class="price-menu-warp img-hover-block" data-img="burger/images/menu-items/snacks/salad.jpg">
+    <div class="price-header">
+        <div class="price-name color">House Salad</div>
+        <div class="price-dots">
+            <span class="separator-dots"></span>
+        </div>
+        <div class="price-price">$1,600</div>
+    </div>
+    <p class="price-desc">Refresh with our house salad, a crisp and colorful mix of fresh greens and vegetables, dressed to perfection.</p>
+</div>
+
 
 					</div>
 					<div id="menu-beverages" class="section mt-0" style="background: linear-gradient(to bottom, #101010, rgba(16,16,16,0.3),#101010), url('burger/images/others/section-4.jpg') no-repeat center top / cover;">
@@ -442,49 +440,49 @@
 									<div class="clear"></div>
 
 									<div class="price-menu-warp img-hover-block" data-img="burger/images/menu-items/beverages/americano.jpg">
-										<div class="price-header">
-											<div class="price-name color">Americano</div>
-											<div class="price-dots">
-												<span class="separator-dots"></span>
-											</div>
-											<div class="price-price">$9.00</div>
-										</div>
-										<p class="price-desc">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt quos harum officia eaque nobis ut.</p>
-									</div>
+    <div class="price-header">
+        <div class="price-name color">Americano</div>
+        <div class="price-dots">
+            <span class="separator-dots"></span>
+        </div>
+        <div class="price-price">N9,550</div>
+    </div>
+    <p class="price-desc">Savor our rich Americano, crafted with the finest coffee beans for a bold and invigorating taste.</p>
+</div>
 
-									<div class="price-menu-warp img-hover-block" data-img="burger/images/menu-items/beverages/cold-coffee.jpg">
-										<div class="price-header">
-											<div class="price-name color">Cold Coffee with Ice-cream</div>
-											<div class="price-dots">
-												<span class="separator-dots"></span>
-											</div>
-											<div class="price-price">$13.00</div>
-										</div>
-										<p class="price-desc">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt quos harum officia eaque nobis ut.</p>
-									</div>
+<div class="price-menu-warp img-hover-block" data-img="burger/images/menu-items/beverages/cold-coffee.jpg">
+    <div class="price-header">
+        <div class="price-name color">Cold Coffee with Ice-cream</div>
+        <div class="price-dots">
+            <span class="separator-dots"></span>
+        </div>
+        <div class="price-price">N600</div>
+    </div>
+    <p class="price-desc">Enjoy a chilled coffee blend topped with creamy ice-cream, offering a delightful and refreshing treat.</p>
+</div>
 
-									<div class="price-menu-warp img-hover-block" data-img="burger/images/menu-items/beverages/cafe-latte.jpg">
-										<div class="price-header">
-											<div class="price-name color">Cafe Latte</div>
-											<div class="price-dots">
-												<span class="separator-dots"></span>
-											</div>
-											<div class="price-price">$15.00</div>
-										</div>
-										<p class="price-desc">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt quos harum officia eaque nobis ut.</p>
-									</div>
+<div class="price-menu-warp img-hover-block" data-img="burger/images/menu-items/beverages/cafe-latte.jpg">
+    <div class="price-header">
+        <div class="price-name color">Cafe Latte</div>
+        <div class="price-dots">
+            <span class="separator-dots"></span>
+        </div>
+        <div class="price-price">N850</div>
+    </div>
+    <p class="price-desc">Relish our smooth Cafe Latte, perfectly balanced with espresso and steamed milk for a comforting experience.</p>
+</div>
 
-									<div class="price-menu-warp img-hover-block" data-img="burger/images/menu-items/beverages/juice.jpg">
-										<div class="price-header">
-											<div class="price-name color">Fresh Juice</div>
-											<div class="price-dots">
-												<span class="separator-dots"></span>
-											</div>
-											<div class="price-price">$13.00</div>
-										</div>
-										<p class="price-desc">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt quos harum officia eaque nobis ut.</p>
-									</div>
-								</div>
+<div class="price-menu-warp img-hover-block" data-img="burger/images/menu-items/beverages/juice.jpg">
+    <div class="price-header">
+        <div class="price-name color">Fresh Juice</div>
+        <div class="price-dots">
+            <span class="separator-dots"></span>
+        </div>
+        <div class="price-price">$500</div>
+    </div>
+    <p class="price-desc">Refresh yourself with our freshly squeezed juice, bursting with natural flavors and essential nutrients.</p>
+</div>
+
 
 								<div class="col-md-6 offset-md-1 text-center order-1 order-md-2" data-animate="zoomIn faster">
 									<img src="burger/images/others/beverage-2.png" alt="" class="parallax price-img mb-5 mb-md-0" data-top-bottom="transform:translateY(-30px)" data-bottom-top="transform:translateY(140px)">
@@ -519,19 +517,19 @@
 								<address class="d-block mb-5">
 									<div class="font-secondary h5 mb-2 color">Address:</div>
 									<span class="h6 text-white ls-1 fw-normal font-primary">
-										North America<br>
-										795 Folsom Ave, Suite 600<br>
-										San Francisco, CA 94107.
+										The Burger Place<br>
+										XX shop location<br>
+										Victoria Island, Lagos.
 									</span>
 								</address>
 								<div class="font-secondary h5 mb-2 color">Phone Number:</div>
-								<a href="tel:(91)(8547)632521" class="d-block h6 text-white ls-1 fw-normal font-primary mb-5">(00) 8547 632521</a>
+								<a href="tel:(91)(8547)632521" class="d-block h6 text-white ls-1 fw-normal font-primary mb-5">+234 XXXX XXXXXX</a>
 
 								<div class="font-secondary h5 mb-2 color">Email:</div>
-								<a href="mailto:no-reply@semicolonweb.com?Subject=Hello%20again" class="d-block h6 text-white ls-1 fw-normal font-primary mb-5">no-reply@semicolonweb.com</a>
+								<a href="mailto:no-reply@semicolonweb.com?Subject=Hello%20again" class="d-block h6 text-white ls-1 fw-normal font-primary mb-5">no-reply@theburgerplace.com</a>
 
 								<div class="font-secondary h5 mb-2 color">Time:</div>
-								<div class="h6 text-white ls-1 fw-normal font-primary">11:00am - 06:00pm</div>
+								<div class="h6 text-white ls-1 fw-normal font-primary">10:00am - 10:00pm</div>
 								<span class="text-uppercase text-white ls-1 fw-normal font-primary">Sunday Closed</span>
 							</div>
 						</div>
@@ -561,7 +559,8 @@
 
 								<img src="burger/images/footer-logo.png" alt="" height="40" class="alignleft" style=" padding-right: 18px; border-right: 1px solid #4A4A4A;">
 
-								<p>We believe in <strong>Simple</strong>, <strong>Creative</strong> &amp; <strong>Flexible</strong> Design Standards with a Retina &amp; Responsive Approach. Browse the amazing Features this template offers.</p>
+								<p>We embrace <strong>Simple</strong>, <strong>Creative</strong>, and <strong>Flexible</strong> design principles, ensuring a Retina-ready and responsive experience. Explore the fantastic features our template provides.</p>
+
 
 								<div class="line" style="margin: 30px 0;"></div>
 
@@ -638,8 +637,8 @@
 									<div class="widget">
 
 										<h4 class="fw-bold">Download App</h4>
-										<a href="#"><img src="demos/articles/images/appstore.png" alt="App Link" height="50"></a>
-										<a href="#"><img src="demos/articles/images/googleplay.png" alt="App Link" class="mt-2" height="50"></a>
+										<a href="#"><img src="burger/images/appstore.png" alt="App Link" height="50"></a>
+										<a href="#"><img src="burger/images/googleplay.png" alt="App Link" class="mt-2" height="50"></a>
 
 									</div>
 								</div>
@@ -667,7 +666,7 @@
 
 					<div class="row col-mb-30">
 						<div class="col-md-6 text-center text-md-start">
-							Copyrights &copy; 2023 All Rights Reserved by Canvas Inc.<br>
+							Copyrights &copy; 2023 All Rights Reserved by Alex Omoruyi.<br>
 							<div class="copyright-links"><a href="#">Terms of Use</a> / <a href="#">Privacy Policy</a></div>
 						</div>
 
